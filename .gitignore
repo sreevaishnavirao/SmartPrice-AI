@@ -1,0 +1,15 @@
+.DS_Store
+.vscode/
+.idea/
+*.log
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+*.pkl
+*.pt
+*.bin
+*.sqlite3
+*.lock
+products_vectorstore*/
+*/chroma.sqlite3
