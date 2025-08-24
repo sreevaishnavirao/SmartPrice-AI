@@ -1,4 +1,7 @@
 SmartPrice AI
+
+
+
 📌 Overview
 
 SmartPrice AI is an Autonomous Agentic AI Framework built to identify online deals, estimate fair prices, and notify users of special bargains in real time. The system leverages multi-agent collaboration, large language models (LLMs), and machine learning models to deliver a production-ready use case for intelligent deal discovery. It is designed as a scalable framework that demonstrates how next-generation agentic AI can be applied to real-world e-commerce problems.
